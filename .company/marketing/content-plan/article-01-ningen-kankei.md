@@ -38,8 +38,7 @@
 
 逃げ道があると分かった瞬間に、人は不思議と今の状況を冷静に見られるようになります。
 
-👇 **まず登録だけしてみる（無料・5分）**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[まず登録だけしてみる（無料・5分）](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 ---
 
@@ -71,14 +70,6 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 **「お金かかりますか？」**
 → 求職者の登録・利用は完全無料です。費用は一切かかりません。
 
----
-
-> 📌 **【バナー挿入位置】**
-> ここに「A8ImageAction.png」をNOTEの画像挿入機能でアップロードしてください。
-> 画像にリンクは設定できないため、バナーの直下に以下のテキストリンクを追加してください：
-> 👉 [無料で登録する](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)
-
----
 
 ## 「あのとき動いていれば」と後悔する前に
 
@@ -91,8 +82,7 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 
 **今この瞬間、動ける人だけが選択肢を持てます。**
 
-👇 **無料で転職サイトに登録する（所要5分）**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[無料で転職サイトに登録する（所要5分）](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 情報を集めることは、逃げることじゃない。
 自分を守る、最初の一歩です。

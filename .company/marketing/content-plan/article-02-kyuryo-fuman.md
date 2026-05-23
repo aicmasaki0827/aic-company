@@ -21,8 +21,7 @@
 
 **だから、まず自分の市場価値を知ってください。**
 
-👇 **無料登録して年収相場を確認する（5分）**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[無料登録して年収相場を確認する（5分）](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 ---
 
@@ -53,14 +52,6 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 **「費用かかりますか？」**
 → 求職者の利用は完全無料です。
 
----
-
-> 📌 **【バナー挿入位置】**
-> ここに「A8ImageAction.png」をNOTEの画像挿入機能でアップロードしてください。
-> 画像にリンクは設定できないため、バナーの直下に以下のテキストリンクを追加してください：
-> 👉 [無料で登録する](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)
-
----
 
 ## 給料への不満は「我慢」で解決しない
 
@@ -73,7 +64,6 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 
 **今すぐ登録して、自分の本当の価値を確かめてください。**
 
-👇 **無料で転職サイトに登録する（所要5分）**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[無料で転職サイトに登録する（所要5分）](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 あなたの給料への不満は、正当な不満かもしれません。まず確かめましょう。

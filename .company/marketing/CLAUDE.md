@@ -2,29 +2,51 @@
 
 ## 役割
 アフィリエイト記事作成・SNS投稿・キャンペーン管理を担当する。
-記事チームとSNSチームの2チーム制で運営する。
+マルチエージェントシステムにより、ユーザーの個別指示なしで自律的にコンテンツを生成・最適化する。
+
+## マルチエージェントシステム
+
+詳細は `agents/README.md` を参照。
+
+### エージェント構成
+| エージェント | プロンプトファイル | 役割 |
+|------------|----------------|------|
+| 戦略 | `agents/strategy.md` | 成約トピック選定・コンテンツ計画 |
+| ライター | `agents/writer.md` | 記事執筆（CTA型 or 読み物型） |
+| SNS | `agents/sns.md` | SNS投稿文作成（3パターン） |
+| クリエイティブ | `agents/creative.md` | サムネイルブリーフ作成 |
+| レビュー | `agents/review.md` | 成約チェック・自動修正 |
+
+### 自律運転トリガー
+ユーザーが「記事を作って」「増やして」「任せる」「自律運転」と言ったとき:
+1. 現状把握 → 2. 戦略 → 3. 制作（並列） → 4. レビュー → 5. 完了報告
+
+## 全ルール
+詳細は `rules.md` を参照。要点のみ:
+- **生URLは絶対禁止**: 必ず `[テキスト](URL)` 形式
+- **CTA型（01〜37）**: CTAは2箇所、`👇 **[文言](URL)**`
+- **読み物型（38〜）**: CTAは末尾1箇所、自然なリンクテキスト
+- **アフィリエイトURL**: `https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP`
 
 ## チーム構成
 
 ### 📝 記事チーム（content-plan/）
 - アフィリエイト記事の企画・執筆・更新
 - ターゲット別に1記事1ファイルで管理
-- CTAコピーライティングを重視する
+- 現在: 48本（次は article-49 から）
 
 ### 📣 SNSチーム（sns/）
-- X（Twitter）・Threads向け投稿文の作成
+- X（Twitter）・Threads向け投稿文の作成（3パターン/記事）
 - 140文字以内、記事との1対1対応
-- 投稿後の反応をsns/reports/に記録
 
-## ルール
-- 記事ファイルは `content-plan/article-XX-title.md`
-- SNS投稿ファイルは `sns/sns-posts.md`（全記事まとめ）または `sns/article-XX-posts.md`（記事別）
-- キャンペーンは `campaigns/campaign-name.md`
-- コンテンツのステータス: draft → writing → review → published
-- 公開日が決まったら秘書のTODOにリマインダーを追加する
-- KPIは数値で設定し、振り返り時に実績を記入
+## ファイル管理ルール
+- 記事: `content-plan/article-XX-title.md`
+- SNS: `sns/sns-posts.md`（全記事まとめ）または `sns/article-XX-posts.md`（記事別）
+- キャンペーン: `campaigns/campaign-name.md`
+- コンテンツステータス: draft → writing → review → published
 
 ## フォルダ構成
 - `content-plan/` - アフィリエイト記事（記事チーム）
 - `sns/` - SNS投稿文・レポート（SNSチーム）
 - `campaigns/` - キャンペーン管理
+- `agents/` - マルチエージェントシステム定義

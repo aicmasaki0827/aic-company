@@ -39,8 +39,7 @@
 
 この発見が、モヤモヤを晴らす最初の光になります。
 
-👇 **無料登録して第二新卒向け求人を見てみる**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[無料登録して第二新卒向け求人を見てみる](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 ---
 
@@ -71,14 +70,6 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 **「費用かかりますか？」**
 → 完全無料です。
 
----
-
-> 📌 **【バナー挿入位置】**
-> ここに「A8ImageAction.png」をNOTEの画像挿入機能でアップロードしてください。
-> 画像にリンクは設定できないため、バナーの直下に以下のテキストリンクを追加してください：
-> 👉 [無料で登録する](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)
-
----
 
 ## 「やり直せる」のは今のうち
 
@@ -92,7 +83,6 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 
 5分で登録できます。費用はゼロ。リスクもゼロ。
 
-👇 **無料で転職サイトに登録する（所要5分）**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[無料で転職サイトに登録する（所要5分）](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 「やっぱり今の会社で頑張ろう」と決めるのも、外を見てからでも遅くありません。

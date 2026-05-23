@@ -4,7 +4,36 @@
       "Bash(git init *)",
       "Bash(git branch *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Skill(update-config)",
+      "Bash(node *)",
+      "WebFetch(domain:note.com)",
+      "WebSearch",
+      "Bash(powershell -Command ' *)",
+      "WebFetch(domain:note-ranking.userlocal.jp)",
+      "WebFetch(domain:hina-asp.com)",
+      "Bash(Get-Content \"C:\\\\Users\\\\81705\\\\Desktop\\\\dev\\\\aic-company\\\\.company\\\\marketing\\\\content-plan\\\\article-50-tensyoku-service-guide.md\")",
+      "Bash(Measure-Object -Line)",
+      "PowerShell($lines = Get-Content \"C:\\\\Users\\\\81705\\\\Desktop\\\\dev\\\\aic-company\\\\.company\\\\marketing\\\\content-plan\\\\article-50-tensyoku-service-guide.md\"; Write-Host \"行数: $\\($lines.Count\\)\")",
+      "Bash(Add-Content *)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$d = $input | ConvertFrom-Json; \"$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') Write fired: $($d.tool_input.file_path)\" | Out-File -Append -FilePath 'C:\\Users\\81705\\Desktop\\dev\\aic-company\\.claude\\hook-test.log'",
+            "shell": "powershell",
+            "timeout": 10,
+            "statusMessage": "フックログ記録中..."
+          }
+        ]
+      }
     ]
   },
   "enabledPlugins": {

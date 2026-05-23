@@ -40,8 +40,7 @@
 「今の自分のスキルで、どのくらいの求人が狙えますか？」と直接聞けます。
 プロの目線での評価が、次の行動の指針になります。
 
-👇 **無料登録して40代向け求人を確認する**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[無料登録して40代向け求人を確認する](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 ---
 
@@ -71,14 +70,6 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 **「費用かかりますか？」**
 → 完全無料です。
 
----
-
-> 📌 **【バナー挿入位置】**
-> ここに「A8ImageAction.png」をNOTEの画像挿入機能でアップロードしてください。
-> 画像にリンクは設定できないため、バナーの直下に以下のテキストリンクを追加してください：
-> 👉 [無料で登録する](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)
-
----
 
 ## 「無理」と決めるのは、調べてからでも遅くない
 
@@ -91,7 +82,6 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 
 諦める前に、一度だけ現実を確かめてください。
 
-👇 **無料で転職サイトに登録する（所要5分）**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[無料で転職サイトに登録する（所要5分）](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 「無理だと思っていたら、意外とあった」——その人になれるかもしれません。

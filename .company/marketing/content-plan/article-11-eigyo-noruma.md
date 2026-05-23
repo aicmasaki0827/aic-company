@@ -33,8 +33,7 @@
 
 「同じ営業職でもこんなに違うのか」と気づくだけで、今の状況を客観的に見られるようになります。
 
-👇 **まず求人を見るだけ（無料・5分）**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[まず求人を見るだけ（無料・5分）](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 ---
 
@@ -62,14 +61,6 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 **「登録したら転職しないといけませんか？」**
 → 見るだけで終わっても大丈夫です。誰にも何も言われません。
 
----
-
-> 📌 **【バナー挿入位置】**
-> ここに「A8ImageAction.png」をNOTEの画像挿入機能でアップロードしてください。
-> 画像にリンクは設定できないため、バナーの直下に以下のテキストリンクを追加してください：
-> 👉 [無料で登録する](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)
-
----
 
 ## 「あの月末の胃の痛み」をなくせる場所が、必ずあります
 
@@ -83,7 +74,6 @@ https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
 
 登録5分。費用ゼロ。リスクゼロ。
 
-👇 **無料で転職サイトに登録する（所要5分）**
-https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP
+👇 **[無料で転職サイトに登録する（所要5分）](https://px.a8.net/svt/ejp?a8mat=4AXA8D+64VVR6+58IO+5ZEMP)**
 
 月末がこわくない職場で、働ける日を取り戻してください。
